@@ -1,2 +1,3 @@
-/cache/ # ignores folder cache
 *.html # ignore all files .html
+/cache/ # ignores folder cache
+
